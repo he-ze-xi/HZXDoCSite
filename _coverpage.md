@@ -1,5 +1,13 @@
-# 在线文档
+![logo](_coverpage.assets/icon.svg)
 
-[整体规划](programming/)
-[服务器清单](server/)
-[文档说明](document/)
+# 小何的个人MD笔记
+
+> 希望自己能够越学越好
+
+* 😀💻🕐🕑🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛😶
+* 😶💻🕜🕝🕞🕟🕠🕡🕢🕣🕤🕥🕦🕧😪
+* 😪👀😎😟😤💪💪💪💻🌕🌗🌑🌞😪😴
+
+[开始阅读](README.md)
+[我的GitHub](https://github.com/he-ze-xi)
+
