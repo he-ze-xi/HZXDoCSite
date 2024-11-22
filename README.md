@@ -4,8 +4,6 @@
 
 * [C++学习笔记](/Study/C++/C++学习笔记.md)
 
-* [C++学习笔记-重写版](/Study/C++/C++学习笔记-重写版.md)
-
 ### C#
 
 * [C#学习笔记](/Study/CSharp/CSharp学习笔记.md)
